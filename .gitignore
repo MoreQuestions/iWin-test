@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace (personal settings - don't sync)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache
+
+# Logs
+*.log
+Logs/*.log
+
+# Temporary files
+*.tmp
+.trash/

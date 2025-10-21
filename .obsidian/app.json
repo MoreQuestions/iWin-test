@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Assets",
+  "defaultViewMode": "source",
+  "foldHeading": true,
+  "foldIndent": true,
+  "livePreview": true,
+  "promptDelete": true,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "tabSize": 2,
+  "useTab": false,
+  "vimMode": false
+}

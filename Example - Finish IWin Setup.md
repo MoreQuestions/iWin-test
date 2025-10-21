@@ -22,8 +22,8 @@ Complete the setup of the IWin task management system with Claude Code.
 - [x] Research platform options (Obsidian vs SwiftUI)
 - [x] Create vault structure
 - [x] Build all bases and dashboards
-- [ ] Set up Git version control
-- [ ] Install required plugins
+- [x] Set up Git version control
+- [x] Install required plugins
 - [ ] Test AI classification workflow
 - [ ] Add first real tasks
 
@@ -48,21 +48,3 @@ Key properties:
 - [[🏠 Home]]
 - [[📅 Today]]
 - [[IWin-System-Manual-vFinal]]
-
-dfvfdg
-sadfalksfn
-alskflaskfj
-aslfdkjlaskfj
-was ein super test
-sadfsafas
-sadf
-asdf
-saf
-asdfkjhsadfkjas
-
-crazy 123
-kjhkjh
-lkjlkjn
-
-lkjhlkjlk
-lkjlkjlkj

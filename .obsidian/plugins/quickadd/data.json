@@ -1,5 +1,54 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "78c39eea-8309-4ad3-b42a-4c268e9adffb",
+      "name": "Quick Task",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Quick Task",
+        "id": "cef3c138-c406-4635-923a-114eaeb5eb8a",
+        "commands": [
+          {
+            "name": "Untitled Template Choice",
+            "type": "NestedChoice",
+            "id": "6afc8068-f752-4c35-aff3-e54cbf52cb00",
+            "choice": {
+              "id": "5b92461d-1006-47d8-a77e-2f8339d5e35b",
+              "name": "Untitled Template Choice",
+              "type": "Template",
+              "command": false,
+              "templatePath": "Templates/Task Template.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{VALUE:title}}.md"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "Inbox"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          }
+        ]
+      }
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
